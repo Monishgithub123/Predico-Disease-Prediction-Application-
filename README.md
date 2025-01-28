@@ -65,6 +65,6 @@ Github: https://github.com/Monishgithub123
 
 
 Future Scope
-Adding more advanced machine learning algorithms.
-Enhancing the user interface for better usability.
-Deploying the application for public access.
+[Adding more advanced machine learning algorithms.]
+[Enhancing the user interface for better usability.]
+[Deploying the application for public access.]
