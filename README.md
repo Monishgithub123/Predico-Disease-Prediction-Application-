@@ -1,6 +1,6 @@
 # Predico-Disease-Prediction-Application-
 
-Powered by Pyhton , Django and PostgreSql
+Powered by Python , Django and PostgreSql
 
 ## Overview  
 This project is designed to predict diseases based on symptoms provided by the user. It utilizes a machine learning model trained on a dataset and is integrated with a Django backend. PostgreSQL is used as the database to store application data.
@@ -58,7 +58,7 @@ Disease Prediction Dataset
 
 
 Project Owner
-Monish Yedlewar
+[Monish Yedlewar]
 
 Email: yedlewarmonish@gmail.com
 Github: https://github.com/Monishgithub123
